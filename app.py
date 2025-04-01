@@ -22,7 +22,7 @@ def main():
     choice = st.sidebar.selectbox("Menu",menu)
 
     if choice == "Home":
-        st.title("Welcome To Jwellary")
+        st.title("Welcome To Jwellary present by sanjay")
     
 
     elif choice == "New Gold Loan":
